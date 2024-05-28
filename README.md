@@ -3,7 +3,7 @@
 This project demonstrates the creation of a Sales Performance Dashboard using Power BI and SQL Server, utilizing a comprehensive sales dataset from Kaggle. The goal is to provide a robust analytical tool for stakeholders to monitor and evaluate sales performance, identify trends, and make data-driven decisions.
 
 ## Introduction
-The Sales Performance Dashboard project aims to visualize sales data effectively. By using Power BI for visualization and SQL Server for data management, we create an interactive and dynamic dashboard that provides comprehensive insights into sales performance.
+The Sales Performance Dashboard project aims to visualize sales data effectively. By using Power BI for visualization and SQL Server for data management, I create an interactive and dynamic dashboard that provides comprehensive insights into sales performance.
 
 ## Dataset
 The dataset used in this project is obtained from Kaggle. It contains various sales-related attributes such as sales amount, product categories, dates, and customer information.
